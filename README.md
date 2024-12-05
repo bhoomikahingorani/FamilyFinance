@@ -123,3 +123,6 @@ Response:
 - **streamlit_app.py**: The main Streamlit application file. It handles the user interface, data visualization, and interaction with the FastAPI backend.
 - **fastAPI.py**: The FastAPI backend that calculates financial scores for new family records.
 	
+## Excel File
+
+I created an Excel file containing a dashboard, two sheets (Family_risk_identification and the provided dataset), and several pivot tables to better understand the data. The Family_risk_identification sheet consolidates family-level data, addressing redundancies in the categorical spending data for individual family members. I also added columns to calculate ratios and classify families into risk categories (Low, Medium, High). This analysis streamlined the development of the Streamlit dashboard.
