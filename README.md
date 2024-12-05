@@ -59,7 +59,6 @@ The financial health score (0-100) is calculated using the following components:
 
    ```bash
    git clone https://github.com/bhoomikahingorani/FamilyFinance.git
-   cd financial-insight-dashboard
    ```
 
 2. Install the required packages:
